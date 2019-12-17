@@ -83,88 +83,6 @@
       ]
     },
     {
-      "day": "2019-12-07T16:48:42.000Z",
-      "cities": [
-        {
-          "city": "Lodz",
-          "data": {
-            "temperature": 6.56,
-            "pressure": 1007,
-            "humidity": 93,
-            "precipitation": 0,
-            "windSpeed": 5.7,
-            "windDirection": 250
-          }
-        },
-        {
-          "city": "Warsaw",
-          "data": {
-            "temperature": 6.61,
-            "pressure": 1005,
-            "humidity": 87,
-            "precipitation": 0,
-            "windSpeed": 4.1,
-            "windDirection": 230
-          }
-        },
-        {
-          "city": "Wroclaw",
-          "data": {
-            "temperature": 6.86,
-            "pressure": 1011,
-            "humidity": 87,
-            "precipitation": 0,
-            "windSpeed": 5.7,
-            "windDirection": 260
-          }
-        },
-        {
-          "city": "Szczecin",
-          "data": {
-            "temperature": 7.18,
-            "pressure": 1005,
-            "humidity": 87,
-            "precipitation": 0,
-            "windSpeed": 3.1,
-            "windDirection": 240
-          }
-        },
-        {
-          "city": "Rzeszow",
-          "data": {
-            "temperature": 2.62,
-            "pressure": 1011,
-            "humidity": 74,
-            "precipitation": 0,
-            "windSpeed": 6.2,
-            "windDirection": 220
-          }
-        },
-        {
-          "city": "Gdansk",
-          "data": {
-            "temperature": 6.09,
-            "pressure": 999,
-            "humidity": 75,
-            "precipitation": 0,
-            "windSpeed": 9.8,
-            "windDirection": 280
-          }
-        },
-        {
-          "city": "Suwalki",
-          "data": {
-            "temperature": 5.56,
-            "pressure": 1000,
-            "humidity": 81,
-            "precipitation": 0.31,
-            "windSpeed": 6.27,
-            "windDirection": 264
-          }
-        }
-      ]
-    },
-    {
       "day": "2019-12-07T17:10:01.000Z",
       "cities": [
         {
@@ -246,85 +164,1079 @@
       ]
     },
     {
-      "day": "2019-12-07T17:10:01.000Z",
+      "day": "2019-12-10T07:59:51.000Z",
       "cities": [
         {
           "city": "Lodz",
           "data": {
-            "temperature": 6.57,
-            "pressure": 1007,
-            "humidity": 93,
-            "windSpeed": 5.7,
-            "windDirection": 250
-          }
-        },
-        {
-          "city": "Warsaw",
-          "data": {
-            "temperature": 6.67,
-            "pressure": 1005,
-            "humidity": 87,
+            "temperature": 2.82,
+            "pressure": 1014,
+            "humidity": 74,
             "precipitation": 0,
             "windSpeed": 4.1,
-            "windDirection": 230
-          }
-        },
-        {
-          "city": "Wroclaw",
-          "data": {
-            "temperature": 6.85,
-            "pressure": 1011,
-            "humidity": 81,
-            "precipitation": 0,
-            "windSpeed": 5.7,
             "windDirection": 270
           }
         },
         {
+          "city": "Warsaw",
+          "data": {
+            "temperature": 4.28,
+            "pressure": 1012,
+            "humidity": 93,
+            "precipitation": 0,
+            "windSpeed": 3.6,
+            "windDirection": 270
+          }
+        },
+        {
+          "city": "Wroclaw",
+          "data": {
+            "temperature": 3.01,
+            "pressure": 1018,
+            "humidity": 74,
+            "precipitation": 0,
+            "windSpeed": 6.2,
+            "windDirection": 290
+          }
+        },
+        {
           "city": "Szczecin",
           "data": {
-            "temperature": 7.18,
-            "pressure": 1005,
-            "humidity": 87,
+            "temperature": 1.95,
+            "pressure": 1016,
+            "humidity": 69,
             "precipitation": 0,
-            "windSpeed": 3.1,
-            "windDirection": 240
+            "windSpeed": 5.1,
+            "windDirection": 310
           }
         },
         {
           "city": "Rzeszow",
           "data": {
-            "temperature": 2.76,
-            "pressure": 1011,
-            "humidity": 74,
+            "temperature": 3.92,
+            "pressure": 1014,
+            "humidity": 100,
             "precipitation": 0,
-            "windSpeed": 6.2,
-            "windDirection": 220
+            "windSpeed": 4.1,
+            "windDirection": 270
           }
         },
         {
           "city": "Gdansk",
           "data": {
-            "temperature": 5.85,
-            "pressure": 999,
-            "humidity": 75,
+            "temperature": 2.74,
+            "pressure": 1008,
+            "humidity": 100,
             "precipitation": 0,
-            "windSpeed": 9.8,
-            "windDirection": 280
+            "windSpeed": 7.2,
+            "windDirection": 290
           }
         },
         {
           "city": "Suwalki",
           "data": {
-            "temperature": 5.56,
-            "pressure": 1000,
-            "humidity": 81,
-            "precipitation": 0.31,
-            "windSpeed": 6.27,
-            "windDirection": 264
+            "temperature": 4.05,
+            "pressure": 1009,
+            "humidity": 86,
+            "precipitation": 0,
+            "windSpeed": 4.2,
+            "windDirection": 248
+          }
+        }
+      ]
+    },
+    {
+      "day": "2019-12-10T08:26:47.000Z",
+      "cities": [
+        {
+          "city": "Lodz",
+          "data": {
+            "temperature": 3.19,
+            "pressure": 1014,
+            "humidity": 74,
+            "precipitation": 0,
+            "windSpeed": 6.7,
+            "windDirection": 270
+          }
+        },
+        {
+          "city": "Warsaw",
+          "data": {
+            "temperature": 4.42,
+            "pressure": 1013,
+            "humidity": 80,
+            "precipitation": 0,
+            "windSpeed": 5.1,
+            "windDirection": 280
+          }
+        },
+        {
+          "city": "Wroclaw",
+          "data": {
+            "temperature": 2.95,
+            "pressure": 1018,
+            "humidity": 75,
+            "precipitation": 0,
+            "windSpeed": 7.7,
+            "windDirection": 290
+          }
+        },
+        {
+          "city": "Szczecin",
+          "data": {
+            "temperature": 1.7,
+            "pressure": 1017,
+            "humidity": 74,
+            "precipitation": 0,
+            "windSpeed": 4.6,
+            "windDirection": 300
+          }
+        },
+        {
+          "city": "Rzeszow",
+          "data": {
+            "temperature": 4.17,
+            "pressure": 1014,
+            "humidity": 93,
+            "precipitation": 0,
+            "windSpeed": 4.1,
+            "windDirection": 270
+          }
+        },
+        {
+          "city": "Gdansk",
+          "data": {
+            "temperature": 2.75,
+            "pressure": 1009,
+            "humidity": 93,
+            "precipitation": 0,
+            "windSpeed": 8.2,
+            "windDirection": 310
+          }
+        },
+        {
+          "city": "Suwalki",
+          "data": {
+            "temperature": 4.05,
+            "pressure": 1009,
+            "humidity": 86,
+            "precipitation": 0,
+            "windSpeed": 4.2,
+            "windDirection": 248
+          }
+        }
+      ]
+    },
+    {
+      "day": "2019-12-10T08:39:21.000Z",
+      "cities": [
+        {
+          "city": "Lodz",
+          "data": {
+            "temperature": 3.33,
+            "pressure": 1014,
+            "humidity": 77,
+            "precipitation": 0,
+            "windSpeed": 3.58,
+            "windDirection": 293
+          }
+        },
+        {
+          "city": "Warsaw",
+          "data": {
+            "temperature": 4.39,
+            "pressure": 1013,
+            "humidity": 80,
+            "precipitation": 0,
+            "windSpeed": 5.1,
+            "windDirection": 280
+          }
+        },
+        {
+          "city": "Wroclaw",
+          "data": {
+            "temperature": 3.06,
+            "pressure": 1018,
+            "humidity": 75,
+            "precipitation": 0,
+            "windSpeed": 7.7,
+            "windDirection": 290
+          }
+        },
+        {
+          "city": "Szczecin",
+          "data": {
+            "temperature": 1.59,
+            "pressure": 1017,
+            "humidity": 74,
+            "precipitation": 0,
+            "windSpeed": 4.6,
+            "windDirection": 300
+          }
+        },
+        {
+          "city": "Rzeszow",
+          "data": {
+            "temperature": 4.32,
+            "pressure": 1014,
+            "humidity": 93,
+            "precipitation": 0,
+            "windSpeed": 4.1,
+            "windDirection": 270
+          }
+        },
+        {
+          "city": "Gdansk",
+          "data": {
+            "temperature": 2.83,
+            "pressure": 1009,
+            "humidity": 93,
+            "precipitation": 0,
+            "windSpeed": 8.2,
+            "windDirection": 310
+          }
+        },
+        {
+          "city": "Suwalki",
+          "data": {
+            "temperature": 4.05,
+            "pressure": 1009,
+            "humidity": 86,
+            "precipitation": 0,
+            "windSpeed": 4.2,
+            "windDirection": 248
+          }
+        }
+      ]
+    },
+    {
+      "day": "2019-12-10T08:50:00.000Z",
+      "cities": [
+        {
+          "city": "Lodz",
+          "data": {
+            "temperature": 3.18,
+            "pressure": 1015,
+            "humidity": 74,
+            "precipitation": 0,
+            "windSpeed": 7.7,
+            "windDirection": 270
+          }
+        },
+        {
+          "city": "Warsaw",
+          "data": {
+            "temperature": 4.32,
+            "pressure": 1013,
+            "humidity": 80,
+            "precipitation": 0,
+            "windSpeed": 5.1,
+            "windDirection": 280
+          }
+        },
+        {
+          "city": "Wroclaw",
+          "data": {
+            "temperature": 3.01,
+            "pressure": 1018,
+            "humidity": 75,
+            "precipitation": 0,
+            "windSpeed": 7.7,
+            "windDirection": 290
+          }
+        },
+        {
+          "city": "Szczecin",
+          "data": {
+            "temperature": 2.03,
+            "pressure": 1018,
+            "humidity": 69,
+            "precipitation": 0,
+            "windSpeed": 3.6,
+            "windDirection": 300
+          }
+        },
+        {
+          "city": "Rzeszow",
+          "data": {
+            "temperature": 4.32,
+            "pressure": 1014,
+            "humidity": 93,
+            "precipitation": 0,
+            "windSpeed": 4.1,
+            "windDirection": 270
+          }
+        },
+        {
+          "city": "Gdansk",
+          "data": {
+            "temperature": 2.74,
+            "pressure": 1009,
+            "humidity": 93,
+            "precipitation": 0,
+            "windSpeed": 8.2,
+            "windDirection": 310
+          }
+        },
+        {
+          "city": "Suwalki",
+          "data": {
+            "temperature": 4.05,
+            "pressure": 1009,
+            "humidity": 86,
+            "precipitation": 0,
+            "windSpeed": 4.2,
+            "windDirection": 248
+          }
+        }
+      ]
+    },
+    {
+      "day": "2019-12-10T09:29:53.000Z",
+      "cities": [
+        {
+          "city": "Lodz",
+          "data": {
+            "temperature": 3.1,
+            "pressure": 1015,
+            "humidity": 74,
+            "precipitation": 0,
+            "windSpeed": 8.2,
+            "windDirection": 270
+          }
+        },
+        {
+          "city": "Warsaw",
+          "data": {
+            "temperature": 4.62,
+            "pressure": 1014,
+            "humidity": 80,
+            "precipitation": 0,
+            "windSpeed": 6.2,
+            "windDirection": 280
+          }
+        },
+        {
+          "city": "Wroclaw",
+          "data": {
+            "temperature": 3.26,
+            "pressure": 1019,
+            "humidity": 75,
+            "precipitation": 0,
+            "windSpeed": 8.2,
+            "windDirection": 290
+          }
+        },
+        {
+          "city": "Szczecin",
+          "data": {
+            "temperature": 2.98,
+            "pressure": 1018,
+            "humidity": 74,
+            "precipitation": 0,
+            "windSpeed": 3.6,
+            "windDirection": 310
+          }
+        },
+        {
+          "city": "Rzeszow",
+          "data": {
+            "temperature": 4.38,
+            "pressure": 1015,
+            "humidity": 93,
+            "windSpeed": 4.6,
+            "windDirection": 270
+          }
+        },
+        {
+          "city": "Gdansk",
+          "data": {
+            "temperature": 2.75,
+            "pressure": 1011,
+            "humidity": 93,
+            "precipitation": 0,
+            "windSpeed": 7.7,
+            "windDirection": 310
+          }
+        },
+        {
+          "city": "Suwalki",
+          "data": {
+            "temperature": 4.05,
+            "pressure": 1009,
+            "humidity": 86,
+            "precipitation": 0,
+            "windSpeed": 4.2,
+            "windDirection": 248
+          }
+        }
+      ]
+    },
+    {
+      "day": "2019-12-10T09:49:38.000Z",
+      "cities": [
+        {
+          "city": "Lodz",
+          "data": {
+            "temperature": 3,
+            "pressure": 1016,
+            "humidity": 74,
+            "precipitation": 0,
+            "windSpeed": 6.7,
+            "windDirection": 260
+          }
+        },
+        {
+          "city": "Warsaw",
+          "data": {
+            "temperature": 4.75,
+            "pressure": 1014,
+            "humidity": 80,
+            "precipitation": 0,
+            "windSpeed": 5.1,
+            "windDirection": 270
+          }
+        },
+        {
+          "city": "Wroclaw",
+          "data": {
+            "temperature": 3.63,
+            "pressure": 1019,
+            "humidity": 75,
+            "precipitation": 0,
+            "windSpeed": 8.2,
+            "windDirection": 290
+          }
+        },
+        {
+          "city": "Szczecin",
+          "data": {
+            "temperature": 3.37,
+            "pressure": 1019,
+            "humidity": 64,
+            "precipitation": 0,
+            "windSpeed": 5.7,
+            "windDirection": 300
+          }
+        },
+        {
+          "city": "Rzeszow",
+          "data": {
+            "temperature": 4.79,
+            "pressure": 1015,
+            "humidity": 86,
+            "windSpeed": 4.6,
+            "windDirection": 270
+          }
+        },
+        {
+          "city": "Gdansk",
+          "data": {
+            "temperature": 2.37,
+            "pressure": 1011,
+            "humidity": 93,
+            "precipitation": 0,
+            "windSpeed": 7.7,
+            "windDirection": 310
+          }
+        },
+        {
+          "city": "Suwalki",
+          "data": {
+            "temperature": 4.05,
+            "pressure": 1009,
+            "humidity": 86,
+            "precipitation": 0,
+            "windSpeed": 4.2,
+            "windDirection": 248
+          }
+        }
+      ]
+    },
+    {
+      "day": "2019-12-10T10:49:45.000Z",
+      "cities": [
+        {
+          "city": "Lodz",
+          "data": {
+            "temperature": 3.28,
+            "pressure": 1017,
+            "humidity": 68,
+            "precipitation": 0,
+            "windSpeed": 7.2,
+            "windDirection": 270
+          }
+        },
+        {
+          "city": "Warsaw",
+          "data": {
+            "temperature": 4.18,
+            "pressure": 1015,
+            "humidity": 65,
+            "precipitation": 0,
+            "windSpeed": 5.7,
+            "windDirection": 280
+          }
+        },
+        {
+          "city": "Wroclaw",
+          "data": {
+            "temperature": 4.01,
+            "pressure": 1021,
+            "humidity": 69,
+            "precipitation": 0,
+            "windSpeed": 7.7,
+            "windDirection": 290
+          }
+        },
+        {
+          "city": "Szczecin",
+          "data": {
+            "temperature": 4.95,
+            "pressure": 1019,
+            "humidity": 57,
+            "precipitation": 0,
+            "windSpeed": 6.7,
+            "windDirection": 280
+          }
+        },
+        {
+          "city": "Rzeszow",
+          "data": {
+            "temperature": 5.22,
+            "pressure": 1016,
+            "humidity": 86,
+            "precipitation": 0,
+            "windSpeed": 4.6,
+            "windDirection": 290
+          }
+        },
+        {
+          "city": "Gdansk",
+          "data": {
+            "temperature": 2.99,
+            "pressure": 1013,
+            "humidity": 93,
+            "precipitation": 0,
+            "windSpeed": 7.7,
+            "windDirection": 310
+          }
+        },
+        {
+          "city": "Suwalki",
+          "data": {
+            "temperature": 3.58,
+            "pressure": 1012,
+            "humidity": 72,
+            "precipitation": 0,
+            "windSpeed": 5.49,
+            "windDirection": 243
+          }
+        }
+      ]
+    },
+    {
+      "day": "2019-12-11T11:48:20.000Z",
+      "cities": [
+        {
+          "city": "Lodz",
+          "data": {
+            "temperature": 0.37,
+            "pressure": 1018,
+            "humidity": 57,
+            "precipitation": 0,
+            "windSpeed": 2.6,
+            "windDirection": 160
+          }
+        },
+        {
+          "city": "Warsaw",
+          "data": {
+            "temperature": 1.64,
+            "pressure": 1019,
+            "humidity": 69,
+            "precipitation": 0,
+            "windSpeed": 3.6,
+            "windDirection": 170
+          }
+        },
+        {
+          "city": "Wroclaw",
+          "data": {
+            "temperature": 3.14,
+            "pressure": 1015,
+            "humidity": 64,
+            "precipitation": 0,
+            "windSpeed": 6.2,
+            "windDirection": 140
+          }
+        },
+        {
+          "city": "Szczecin",
+          "data": {
+            "temperature": 2.39,
+            "pressure": 1011,
+            "humidity": 74,
+            "precipitation": 0,
+            "windSpeed": 5.1,
+            "windDirection": 150
+          }
+        },
+        {
+          "city": "Rzeszow",
+          "data": {
+            "temperature": 1.66,
+            "pressure": 1019,
+            "humidity": 80,
+            "precipitation": 0,
+            "windSpeed": 2.1,
+            "windDirection": 120
+          }
+        },
+        {
+          "city": "Gdansk",
+          "data": {
+            "temperature": 1.98,
+            "pressure": 1013,
+            "humidity": 86,
+            "precipitation": 0,
+            "windSpeed": 6.2,
+            "windDirection": 190
+          }
+        },
+        {
+          "city": "Suwalki",
+          "data": {
+            "temperature": -0.56,
+            "pressure": 1001,
+            "humidity": 94,
+            "precipitation": 0,
+            "windSpeed": 3.2,
+            "windDirection": 185
+          }
+        }
+      ]
+    },
+    {
+      "day": "2019-12-11T11:48:20.000Z",
+      "cities": [
+        {
+          "city": "Lodz",
+          "data": {
+            "temperature": 0.37,
+            "pressure": 1018,
+            "humidity": 57,
+            "precipitation": 0,
+            "windSpeed": 2.6,
+            "windDirection": 160
+          }
+        },
+        {
+          "city": "Warsaw",
+          "data": {
+            "temperature": 1.64,
+            "pressure": 1019,
+            "humidity": 69,
+            "precipitation": 0,
+            "windSpeed": 3.6,
+            "windDirection": 170
+          }
+        },
+        {
+          "city": "Wroclaw",
+          "data": {
+            "temperature": 3.14,
+            "pressure": 1015,
+            "humidity": 64,
+            "precipitation": 0,
+            "windSpeed": 6.2,
+            "windDirection": 140
+          }
+        },
+        {
+          "city": "Szczecin",
+          "data": {
+            "temperature": 2.39,
+            "pressure": 1011,
+            "humidity": 74,
+            "precipitation": 0,
+            "windSpeed": 5.1,
+            "windDirection": 150
+          }
+        },
+        {
+          "city": "Rzeszow",
+          "data": {
+            "temperature": 1.66,
+            "pressure": 1019,
+            "humidity": 80,
+            "precipitation": 0,
+            "windSpeed": 2.1,
+            "windDirection": 120
+          }
+        },
+        {
+          "city": "Gdansk",
+          "data": {
+            "temperature": 1.98,
+            "pressure": 1013,
+            "humidity": 86,
+            "precipitation": 0,
+            "windSpeed": 6.2,
+            "windDirection": 190
+          }
+        },
+        {
+          "city": "Suwalki",
+          "data": {
+            "temperature": -0.56,
+            "pressure": 1001,
+            "humidity": 94,
+            "precipitation": 0,
+            "windSpeed": 3.2,
+            "windDirection": 185
+          }
+        }
+      ]
+    },
+    {
+      "day": "2019-12-11T12:08:55.000Z",
+      "cities": [
+        {
+          "city": "Lodz",
+          "data": {
+            "temperature": 0.9,
+            "pressure": 1017,
+            "humidity": 80,
+            "precipitation": 0,
+            "windSpeed": 2.6,
+            "windDirection": 160
+          }
+        },
+        {
+          "city": "Warsaw",
+          "data": {
+            "temperature": 1.76,
+            "pressure": 1019,
+            "humidity": 69,
+            "precipitation": 0,
+            "windSpeed": 3.6,
+            "windDirection": 170
+          }
+        },
+        {
+          "city": "Wroclaw",
+          "data": {
+            "temperature": 4.07,
+            "pressure": 1015,
+            "humidity": 64,
+            "precipitation": 0,
+            "windSpeed": 6.2,
+            "windDirection": 140
+          }
+        },
+        {
+          "city": "Szczecin",
+          "data": {
+            "temperature": 2.39,
+            "pressure": 1011,
+            "humidity": 74,
+            "precipitation": 0,
+            "windSpeed": 5.1,
+            "windDirection": 150
+          }
+        },
+        {
+          "city": "Rzeszow",
+          "data": {
+            "temperature": 1.34,
+            "pressure": 1018,
+            "humidity": 86,
+            "precipitation": 0,
+            "windSpeed": 2.1,
+            "windDirection": 50
+          }
+        },
+        {
+          "city": "Gdansk",
+          "data": {
+            "temperature": 1.98,
+            "pressure": 1013,
+            "humidity": 86,
+            "precipitation": 0,
+            "windSpeed": 6.2,
+            "windDirection": 190
+          }
+        },
+        {
+          "city": "Suwalki",
+          "data": {
+            "temperature": -1.11,
+            "pressure": 1001,
+            "humidity": 94,
+            "precipitation": 0,
+            "windSpeed": 3.2,
+            "windDirection": 185
+          }
+        }
+      ]
+    },
+    {
+      "day": "2019-12-17T08:01:52.000Z",
+      "cities": [
+        {
+          "city": "Lodz",
+          "data": {
+            "temperature": 2.35,
+            "pressure": 1011,
+            "humidity": 100,
+            "precipitation": 0,
+            "windSpeed": 2.1,
+            "windDirection": 60
+          }
+        },
+        {
+          "city": "Warsaw",
+          "data": {
+            "temperature": 3.56,
+            "pressure": 1011,
+            "humidity": 93,
+            "precipitation": 0,
+            "windSpeed": 2.1,
+            "windDirection": 150
+          }
+        },
+        {
+          "city": "Wroclaw",
+          "data": {
+            "temperature": 6.83,
+            "pressure": 1009,
+            "humidity": 93,
+            "precipitation": 0,
+            "windSpeed": 3.1,
+            "windDirection": 110
+          }
+        },
+        {
+          "city": "Szczecin",
+          "data": {
+            "temperature": 3.9,
+            "pressure": 1005,
+            "humidity": 93,
+            "precipitation": 0,
+            "windSpeed": 4.1,
+            "windDirection": 140
+          }
+        },
+        {
+          "city": "Rzeszow",
+          "data": {
+            "temperature": 10.32,
+            "pressure": 1013,
+            "humidity": 66,
+            "precipitation": 0,
+            "windSpeed": 8.2,
+            "windDirection": 200
+          }
+        },
+        {
+          "city": "Gdansk",
+          "data": {
+            "temperature": 3.85,
+            "pressure": 1007,
+            "humidity": 100,
+            "precipitation": 0,
+            "windSpeed": 1.5,
+            "windDirection": 180
+          }
+        },
+        {
+          "city": "Suwalki",
+          "data": {
+            "temperature": 4.4,
+            "pressure": 1012,
+            "humidity": 91,
+            "precipitation": 0,
+            "windSpeed": 3.35,
+            "windDirection": 206
+          }
+        }
+      ]
+    },
+    {
+      "day": "2019-12-17T08:01:52.000Z",
+      "cities": [
+        {
+          "city": "Lodz",
+          "data": {
+            "temperature": 2.35,
+            "pressure": 1011,
+            "humidity": 100,
+            "precipitation": 0,
+            "windSpeed": 2.1,
+            "windDirection": 60
+          }
+        },
+        {
+          "city": "Warsaw",
+          "data": {
+            "temperature": 3.56,
+            "pressure": 1011,
+            "humidity": 93,
+            "precipitation": 0,
+            "windSpeed": 2.1,
+            "windDirection": 150
+          }
+        },
+        {
+          "city": "Wroclaw",
+          "data": {
+            "temperature": 6.83,
+            "pressure": 1009,
+            "humidity": 93,
+            "precipitation": 0,
+            "windSpeed": 3.1,
+            "windDirection": 110
+          }
+        },
+        {
+          "city": "Szczecin",
+          "data": {
+            "temperature": 3.9,
+            "pressure": 1005,
+            "humidity": 93,
+            "precipitation": 0,
+            "windSpeed": 4.1,
+            "windDirection": 140
+          }
+        },
+        {
+          "city": "Rzeszow",
+          "data": {
+            "temperature": 10.32,
+            "pressure": 1013,
+            "humidity": 66,
+            "precipitation": 0,
+            "windSpeed": 8.2,
+            "windDirection": 200
+          }
+        },
+        {
+          "city": "Gdansk",
+          "data": {
+            "temperature": 3.85,
+            "pressure": 1007,
+            "humidity": 100,
+            "precipitation": 0,
+            "windSpeed": 1.5,
+            "windDirection": 180
+          }
+        },
+        {
+          "city": "Suwalki",
+          "data": {
+            "temperature": 4.4,
+            "pressure": 1012,
+            "humidity": 91,
+            "precipitation": 0,
+            "windSpeed": 3.35,
+            "windDirection": 206
+          }
+        }
+      ]
+    },
+    {
+      "day": "2019-12-17T08:16:41.000Z",
+      "cities": [
+        {
+          "city": "Lodz",
+          "data": {
+            "temperature": 2.8,
+            "pressure": 1011,
+            "humidity": 93,
+            "precipitation": 0,
+            "windSpeed": 1.5,
+            "windDirection": 100
+          }
+        },
+        {
+          "city": "Warsaw",
+          "data": {
+            "temperature": 3.39,
+            "pressure": 1011,
+            "humidity": 100,
+            "precipitation": 0,
+            "windSpeed": 2.6,
+            "windDirection": 170
+          }
+        },
+        {
+          "city": "Wroclaw",
+          "data": {
+            "temperature": 6.92,
+            "pressure": 1009,
+            "humidity": 93,
+            "precipitation": 0,
+            "windSpeed": 3.1,
+            "windDirection": 120
+          }
+        },
+        {
+          "city": "Szczecin",
+          "data": {
+            "temperature": 4.43,
+            "pressure": 1005,
+            "humidity": 86,
+            "precipitation": 0,
+            "windSpeed": 4.6,
+            "windDirection": 130
+          }
+        },
+        {
+          "city": "Rzeszow",
+          "data": {
+            "temperature": 10.6,
+            "pressure": 1014,
+            "humidity": 66,
+            "precipitation": 0,
+            "windSpeed": 7.7,
+            "windDirection": 200
+          }
+        },
+        {
+          "city": "Gdansk",
+          "data": {
+            "temperature": 3.92,
+            "pressure": 1007,
+            "humidity": 100,
+            "precipitation": 0,
+            "windSpeed": 1
+          }
+        },
+        {
+          "city": "Suwalki",
+          "data": {
+            "temperature": 4.4,
+            "pressure": 1012,
+            "humidity": 91,
+            "precipitation": 0,
+            "windSpeed": 3.35,
+            "windDirection": 206
           }
         }
       ]
     }
+  ],
+  "authrized_keys": [
+    "210d4206-f3df-42db-8638-914820b88a92",
+    "ce4585d5-7be7-4c43-b3cf-262a7b343ebf",
+    "ca754c08-3228-4274-8519-92846708688c",
+    "84862733-cfc9-4fa4-bd79-7ef7f718e6d4",
+    "9c9c95f5-4c91-4801-9f61-06013ec656c3",
+    "06110246-6bc6-4b16-8835-6481156c9a45",
+    "1dd273f8-f140-49b4-a84e-3329d3efbc8e",
+    "c3aac55c-a800-4a6a-9a9e-672f6bc91757",
+    "1e914fe5-389e-4fda-9fa4-d37138aa29de",
+    "1046c158-fa79-4217-9c87-0a7dc25a7f06"
   ]
 }
